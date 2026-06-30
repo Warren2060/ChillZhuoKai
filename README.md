@@ -10,5 +10,5 @@
 <img width="1536" height="2048" alt="07" src="https://github.com/user-attachments/assets/69e6dc2e-e649-46be-86b0-0907e045cb29" />
 
 ## 相关项目
-zi2zi-JIT（https://github.com/kaonashi-tyc/zi2zi-JiT）
+zi2zi-JIT（https://github.com/kaonashi-tyc/zi2zi-JiT）<br>
 Yuji (https://github.com/Kinutafontfactory/Yuji)
