@@ -1,7 +1,7 @@
-## ChillZhuoKai
+## 寒蝉拙楷体{ChillZhuoKai}
 使用zi2zi-JIT生成的补简字体项目。<br>
 原字体 Yuji Syuku 佑字 肅  <br>
-参考字体骨架  SourceHanSerif 思源宋体 Regular
+参考字体骨架  SourceHanSerif 思源宋体 Regular <br>
 
 <img width="1536" height="2048" alt="01" src="https://github.com/user-attachments/assets/23e11684-95c9-4717-a430-194839667fdb" />
 <img width="1536" height="2048" alt="02" src="https://github.com/user-attachments/assets/ca8baf9e-cf66-4f8a-931c-a176f7301ebb" />
@@ -13,5 +13,5 @@
 
 ## 相关项目
 zi2zi-JIT（https://github.com/kaonashi-tyc/zi2zi-JiT）<br>
-Yuji (https://github.com/Kinutafontfactory/Yuji)
+Yuji (https://github.com/Kinutafontfactory/Yuji) <br>
 SourceHanSerif (https://github.com/adobe-fonts/source-han-serif)
